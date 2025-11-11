@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ChatGPT"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+                         http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ruta_prueba_1</name>
+    <desc>Pequeña ruta circular de prueba</desc>
+  </metadata>
+  <trk>
+    <name>Ruta_prueba_1</name>
+    <trkseg>
+      <trkpt lat="40.416775" lon="-3.703790"><ele>650</ele></trkpt>
+      <trkpt lat="40.417000" lon="-3.703500"><ele>652</ele></trkpt>
+      <trkpt lat="40.417300" lon="-3.703200"><ele>655</ele></trkpt>
+      <trkpt lat="40.416900" lon="-3.703100"><ele>651</ele></trkpt>
+      <trkpt lat="40.416775" lon="-3.703790"><ele>650</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
