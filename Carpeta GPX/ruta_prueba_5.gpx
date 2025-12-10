@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="ChatGPT"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 
+                         http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Ruta_prueba_2</name>
+    <desc>Track lineal con ligeras variaciones</desc>
+  </metadata>
+  <trk>
+    <name>Ruta_prueba_2</name>
+    <trkseg>
+      <trkpt lat="41.387015" lon="2.170047"><ele>10</ele></trkpt>
+      <trkpt lat="41.387215" lon="2.170547"><ele>11</ele></trkpt>
+      <trkpt lat="41.387415" lon="2.171047"><ele>12</ele></trkpt>
+      <trkpt lat="41.387615" lon="2.171547"><ele>13</ele></trkpt>
+      <trkpt lat="41.387815" lon="2.172047"><ele>14</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
